@@ -90,7 +90,7 @@ Maak de vereiste onderdeel van contractvoorwaarden
 
 ## Toelichting
 <!-- Geef hier een toelichting van deze maatregel -->
-Door de vereiste onderdeel te maken van contractvoorwaarden, is voor aanbieder vooraf duidelijk aan welke voorwaarden zij moeten voldoen als zijn algoritmes en AI-systemen willen aanbieden. 
+Door de vereiste onderdeel te maken van contractvoorwaarden, is voor aanbieder vooraf duidelijk aan welke voorwaarden moet worden voldaan als zijn algoritmes en AI-systemen willen aanbieden. 
 Het is van belang om een afweging te maken in welke gevallen contractvoorwaarden worden ingezet en welke vereisten daarbij horen. 
 Welke vereisten onderdeel moeten worden gemaakt van contractvoorwaarden is afhankelijk van de beoogde toepassing. 
 Er zijn meer vereiste van toepassing bij impactvolle en hoog risico AI-systemen, waarmee burgers potentieel in aanmerkelijke mate kunnen worden getroffen dan bij geen impactvolle of laag risico AI-systemen. 

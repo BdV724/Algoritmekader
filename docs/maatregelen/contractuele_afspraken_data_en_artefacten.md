@@ -23,7 +23,7 @@ hide:
 ## Maatregel
 
 Maak (contractuele) afspraken met de aanbieder wie eigenaar is van de data en artefacten die ontstaan bij het gebruik van algoritmen en AI-systemen.
-
+ 
 ## Toelichting
 
 Hier kan worden gedacht aan de initiële trainingsdataset, outputdata (richting gebruikers) en nieuwe trainingsdata (vanuit gebruikers).
